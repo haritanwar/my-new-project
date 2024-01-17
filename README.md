@@ -2,11 +2,11 @@
 
 # Project Title
 
- AIR POLLUTION CONTROL THROUGH AI
+ AIR POLLUTION CONTROL CAUSE BY HUMAN WITH AI
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+IN THIS PROJECT WE ARE WORKING ON OBSERVING HUMAN BEHAVIOR AND WITH THE HELP OF AI WITH CAN DECREASE THE AIR PULLUTION BY HUMAN
 
 
 ## Background
