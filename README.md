@@ -1,8 +1,8 @@
 
 
-# Project Title- AIR POLLUTION CONTROL THROUGH AI - 
+# Project Title
 
-Final project for the Building AI course
+ AIR POLLUTION CONTROL THROUGH AI
 
 ## Summary
 
