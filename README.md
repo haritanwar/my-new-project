@@ -1,77 +1,48 @@
 
+# A Chatbot As a Friend
 
-# Project Title
-
- AIR POLLUTION CONTROL CAUSE BY HUMAN WITH AI
+Final project for the Building AI course
 
 ## Summary
 
-IN THIS PROJECT WE ARE WORKING ON OBSERVING HUMAN BEHAVIOR AND WITH THE HELP OF AI WITH CAN DECREASE THE AIR PULLUTION BY HUMAN
+This project is made for everyone that want to have a personal computer as a friend. The idea behind this project is to create a chatbot that is up to date with the new algorithm techniques. 
+
+
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+This project is able to solve, for instance, the problem of the solitude, in fact, everyone that need someone with which talk can trust the bot that is always available (7 days at week & 24 hours a day).
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The chatbot can offer a large range of discussion and as the time goes on, it will also learn which kind of people is his owner, with this, the bot is supposed to assume the correct behavior in order to improve his speech skills with the people. This bot is made for everyone that want to confide themself with someone care.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+The chatbot will be able to:
+* Listen and talk with the person;
+* Learn which kind of person is; 
+* Answer specific question (about social behavior, usefull tips, fun fact, wheather outside, calendar, etc...).
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+It can be used in textual mode (that is seems like a conversation with someone) or in speech mode (that is more like a phone call).
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+For this project we'll need the necessary amount of data in order to program a correct algorithm of:
+
+* Speech recognition;
+* Natural Lenguage Processing;
+* Learn from the owner;
+* etc.
+
+We should take the data from famous online database that is also open source and up to date about this argument.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Of course as every project it has is own limitations. For instance, he is not able to do a lot of stuff (create an article, playing gamens...). 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The next step in order to maximise this bot is to create a robotic structure, in this way, we must also implement the movement and a lot of stuff that is linked to it (equilibrium, image recognition, space movement perception...)
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
